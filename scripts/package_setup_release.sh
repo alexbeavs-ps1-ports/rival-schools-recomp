@@ -84,7 +84,7 @@ exec bash "${PACKAGER}" \
   --build-dir "${BUILD_DIR}" \
   --artifact "${ARTIFACT_TAG}" \
   --zip-prefix rivalschools \
-  --exe-name Rival_Schools_United_by_Fate \
+  --exe-name Rival_Schools_Arcade \
   --omit-openbios \
   --display-name "Rival Schools: United by Fate" \
   --recompiler-build "${RECOMPILER_BUILD}" \

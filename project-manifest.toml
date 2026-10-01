@@ -14,6 +14,16 @@ executable_paths = ["disc/SLUS_006.81"]
 executable_sha256 = ""
 load_address = "0x80010000"
 entry_point = "0x80010008"
+program_model = "independent-program"
+
+[retail_identity.set]
+name = "rival-schools-united-by-fate-usa"
+title = "Rival Schools: United by Fate"
+serials = ["SLUS-00681", "SLUS-00771"]
+programs = ["arcade", "evolution"]
+program = "arcade"
+exe_name = "Rival_Schools_Arcade"
+shortcut = "Rival Schools (Arcade Disc)"
 
 [framework]
 name = "PSXRecomp"
