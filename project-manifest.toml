@@ -23,7 +23,7 @@ serials = ["SLUS-00681", "SLUS-00771"]
 programs = ["arcade", "evolution"]
 program = "arcade"
 exe_name = "Rival_Schools_Arcade"
-shortcut = "Rival Schools (Arcade Disc)"
+shortcut = "Rival Schools - Arcade Disc"
 
 [framework]
 name = "PSXRecomp"
